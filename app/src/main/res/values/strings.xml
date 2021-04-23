@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Java_6.2hw</string>
+    <string name="hello_welcome">Hello, Welcome!</string>
+    <string name="phone_number_or_email">Phone Number or Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign in</string>
+    <string name="or_sign_in_with">or Sign in with</string>
+    <string name="welcome_to_relaxyfy">Welcome to Relaxyfy!</string>
+    <string name="lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_risus_euismod_lacus_pharetra_dui">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Risus euismod lacus, pharetra dui.</string>
+    <string name="sign_up">Sign up</string>
+    <string name="name">Name</string>
+    <string name="registration">Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="back">Back</string>
+
+</resources>
